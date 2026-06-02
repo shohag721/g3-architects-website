@@ -22,6 +22,15 @@
   display: flex;
   justify-content: space-between;
 }
+.btn-primary{
+  background-color: #ff8f0e;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 /* header section */
 .header-content{
   background-color: #ff8f0e18;
@@ -42,7 +51,7 @@
 }
 .nav-content h1{
   margin-top:102px;
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 700;
   color:#131313;
 }
@@ -51,7 +60,11 @@
   font-size: 1.19rem;
 }
 .nav-image{
-  margin:0 auto;
   border-radius: 10px;
   width: 100%;
+}
+.images-conent{
+  display:grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 20px;
 }
