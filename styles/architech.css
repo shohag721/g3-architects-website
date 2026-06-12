@@ -94,7 +94,9 @@
   color: #FF900E;
 }
 .card-info{
-  padding: 45px 35px;
+  margin: 100px 0 0 35px;
+  padding: 35px 26px 30px 25px;
+  text-align: center;
   border: 1px solid #ff8800;
   border-radius: 8px;
 }
