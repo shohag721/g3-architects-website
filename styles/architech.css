@@ -68,6 +68,7 @@
 .nav-content p{
   margin: 20px;
   font-size: 1.19rem;
+  line-height: 1.5;
 }
 .nav-image{
   border-radius: 10px;
@@ -93,10 +94,30 @@
 #features{
   color: #FF900E;
 }
+.facts-card h2{
+  margin-top: 130px;
+  font-size: 2.3rem;
+  font-weight: 700;
+}
+.facts-card p{
+  margin-top: 10px;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
 .card-info{
   margin: 100px 0 0 35px;
   padding: 35px 26px 30px 25px;
   text-align: center;
   border: 1px solid #ff8800;
   border-radius: 8px;
+}
+.card-info h3{
+  margin:10px ;
+  font-size: 2.3rem;
+  font-weight: 700;
+}
+.card-info p{
+  font-size: 1.1rem;
+  font-weight: 600;
 }
