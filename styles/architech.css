@@ -71,6 +71,7 @@
   line-height: 1.5;
 }
 .nav-image{
+  margin: 20px auto;
   border-radius: 10px;
   width: 100%;
 }
@@ -139,7 +140,13 @@
     font-size: 0.60rem;
     line-height: 1.6;
   }
-  .images-conent{
+.nav-image{
+    margin: 20px auto;
+    width: 100%;
+  }
+  .images-conent {
     display: flex;
+    flex-direction: column;
   }
 }
+
