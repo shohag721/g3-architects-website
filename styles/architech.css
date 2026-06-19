@@ -148,5 +148,22 @@
     display: flex;
     flex-direction: column;
   }
+  .banner{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .banner p {
+    margin: 5px;
+}
+.btn-primary {
+    margin-bottom: 20px;
+}
+.card-content{
+  display: block;
+}
+.card-info {
+    margin: 20px;
+}
 }
 
