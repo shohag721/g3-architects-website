@@ -236,4 +236,23 @@ footer{
 .card-info {
     margin: 20px;
 }
+.future .futuere-content{
+  display: block;
+}
+.features-images img{
+  width: 100%;
+}
+.future button{
+  margin-left: -10%;
+  width: 130px;
+  height: 80px;
+}
+.future button span{
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.sponsor-images{
+  display: flex;
+  flex-wrap: wrap;
+}
 }
